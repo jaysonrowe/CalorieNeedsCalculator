@@ -1,0 +1,8 @@
+C:\Users\jaysonr\documents\visual studio 2012\Projects\CalorieNeedsCalculator\CalorieNeedsCalculator\bin\Release\CalorieNeedsCalculator.exe.config
+C:\Users\jaysonr\documents\visual studio 2012\Projects\CalorieNeedsCalculator\CalorieNeedsCalculator\bin\Release\CalorieNeedsCalculator.exe
+C:\Users\jaysonr\documents\visual studio 2012\Projects\CalorieNeedsCalculator\CalorieNeedsCalculator\bin\Release\CalorieNeedsCalculator.pdb
+C:\Users\jaysonr\documents\visual studio 2012\Projects\CalorieNeedsCalculator\CalorieNeedsCalculator\obj\Release\CalorieNeedsCalculator.Form1.resources
+C:\Users\jaysonr\documents\visual studio 2012\Projects\CalorieNeedsCalculator\CalorieNeedsCalculator\obj\Release\CalorieNeedsCalculator.Properties.Resources.resources
+C:\Users\jaysonr\documents\visual studio 2012\Projects\CalorieNeedsCalculator\CalorieNeedsCalculator\obj\Release\CalorieNeedsCalculator.csproj.GenerateResource.Cache
+C:\Users\jaysonr\documents\visual studio 2012\Projects\CalorieNeedsCalculator\CalorieNeedsCalculator\obj\Release\CalorieNeedsCalculator.exe
+C:\Users\jaysonr\documents\visual studio 2012\Projects\CalorieNeedsCalculator\CalorieNeedsCalculator\obj\Release\CalorieNeedsCalculator.pdb

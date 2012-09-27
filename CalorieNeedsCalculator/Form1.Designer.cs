@@ -50,6 +50,7 @@
             this.txtHeight.Name = "txtHeight";
             this.txtHeight.Size = new System.Drawing.Size(100, 20);
             this.txtHeight.TabIndex = 0;
+            this.txtHeight.Text = "0";
             // 
             // lblHeight
             // 
@@ -75,6 +76,7 @@
             this.txtWeight.Name = "txtWeight";
             this.txtWeight.Size = new System.Drawing.Size(100, 20);
             this.txtWeight.TabIndex = 3;
+            this.txtWeight.Text = "0";
             // 
             // lblAge
             // 
@@ -91,6 +93,7 @@
             this.txtAge.Name = "txtAge";
             this.txtAge.Size = new System.Drawing.Size(100, 20);
             this.txtAge.TabIndex = 5;
+            this.txtAge.Text = "0";
             // 
             // btnAct0
             // 
@@ -99,7 +102,6 @@
             this.btnAct0.Name = "btnAct0";
             this.btnAct0.Size = new System.Drawing.Size(73, 17);
             this.btnAct0.TabIndex = 8;
-            this.btnAct0.TabStop = true;
             this.btnAct0.Text = "Sedentary";
             this.btnAct0.UseVisualStyleBackColor = true;
             // 
@@ -110,7 +112,6 @@
             this.btnAct1.Name = "btnAct1";
             this.btnAct1.Size = new System.Drawing.Size(174, 17);
             this.btnAct1.TabIndex = 9;
-            this.btnAct1.TabStop = true;
             this.btnAct1.Text = "Walking/Standing. No Exercise";
             this.btnAct1.UseVisualStyleBackColor = true;
             // 
@@ -121,7 +122,6 @@
             this.btnAct2.Name = "btnAct2";
             this.btnAct2.Size = new System.Drawing.Size(91, 17);
             this.btnAct2.TabIndex = 10;
-            this.btnAct2.TabStop = true;
             this.btnAct2.Text = "Light Exercise";
             this.btnAct2.UseVisualStyleBackColor = true;
             // 
@@ -132,7 +132,6 @@
             this.btnAct3.Name = "btnAct3";
             this.btnAct3.Size = new System.Drawing.Size(113, 17);
             this.btnAct3.TabIndex = 11;
-            this.btnAct3.TabStop = true;
             this.btnAct3.Text = "Moderate Exercise";
             this.btnAct3.UseVisualStyleBackColor = true;
             // 
@@ -143,7 +142,6 @@
             this.btnAct4.Name = "btnAct4";
             this.btnAct4.Size = new System.Drawing.Size(103, 17);
             this.btnAct4.TabIndex = 12;
-            this.btnAct4.TabStop = true;
             this.btnAct4.Text = "Intense Exercise";
             this.btnAct4.UseVisualStyleBackColor = true;
             // 
@@ -175,6 +173,7 @@
             this.btnCalc.TabIndex = 15;
             this.btnCalc.Text = "Calculate";
             this.btnCalc.UseVisualStyleBackColor = true;
+            this.btnCalc.Click += new System.EventHandler(this.btnCalc_Click);
             // 
             // Form1
             // 
